@@ -27,7 +27,8 @@ Para abordar este problema, se seguirá el siguiente enfoque:
 ├── notebooks/             # Jupyter Notebooks con la limpieza, análisis y desarrollo del modelo
 ├── results_notebook/      # Notebook con todo el proceso y resultados de las predicciones y evaluaciones
 ├── utils/                 # Funciones auxiliares y herramientas útiles
-├── README.md              # Documento explicativo del proyecto
+├── README.md              # Documento explicativo del proyecto (Español)
+├── README_en.md           # Documento explicativo del proyecto (Inglés)      
 ```
 
 Este repositorio proporcionará todos los archivos necesarios para la replicación y mejora del modelo de predicción.
